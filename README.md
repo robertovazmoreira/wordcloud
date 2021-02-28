@@ -1,2 +1,2 @@
 # wordcloud
-scraping wordcloud no Medium
+scraping wordcloud no Reddit
